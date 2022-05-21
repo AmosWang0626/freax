@@ -10,6 +10,15 @@
 
 该书的最新修订版 PDF 在 http://www.oldlinux.org/book.html 文末，自己找找吧～
 
+## Linux 0.11 内核源码
+
+http://www.oldlinux.org/Linux.old/kernel/0.1x/
+
+按需下载压缩包就行，例如 linux-0.11.tar.gz
+
+## Mac下构建步骤
+
+TODO
 
 ## 做点啥呢？
 
